@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[launching browser successfully...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[reading mobNumber from property file]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile number...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[reading password from property file]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Entering password number...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on ok button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on close button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot...]]>
+    </line>
+    <line>
+      <![CDATA[getting actual user name is Juber Khan...]]>
+    </line>
+    <line>
+      <![CDATA[reading expUserName from property file]]>
+    </line>
+    <line>
+      <![CDATA[Validate user name passed...]]>
+    </line>
+    <line>
+      <![CDATA[TC validateUserName is passed...]]>
+    </line>
+    <line>
+      <![CDATA[loging out from NeoStox...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on logout button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[reading mobNumber from property file]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile number...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[reading password from property file]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Entering password number...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Pop-Up not display so just wait for few ms...]]>
+    </line>
+    <line>
+      <![CDATA[TC showAvailableFunds is failed...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot...]]>
+    </line>
+    <line>
+      <![CDATA[loging out from NeoStox...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on logout button...]]>
+    </line>
+    <line>
+      <![CDATA[closing browser...]]>
+    </line>
+    <line>
+      <![CDATA[launching browser successfully...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in...]]>
+    </line>
+    <line>
+      <![CDATA[reading mobNumber from property file]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile number...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[reading password from property file]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Entering password number...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on ok button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on close button...]]>
+    </line>
+    <line>
+      <![CDATA[reading expUserName from property file]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot...]]>
+    </line>
+    <line>
+      <![CDATA[getting actual user name is Juber Khan...]]>
+    </line>
+    <line>
+      <![CDATA[Validate user name passed...]]>
+    </line>
+    <line>
+      <![CDATA[TC validateUserName is passed...]]>
+    </line>
+    <line>
+      <![CDATA[loging out from NeoStox...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on logout button...]]>
+    </line>
+    <line>
+      <![CDATA[closing browser...]]>
+    </line>
+    <line>
+      <![CDATA[launching browser successfully...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in...]]>
+    </line>
+    <line>
+      <![CDATA[reading mobNumber from property file]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Entering mobile number...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[reading password from property file]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Entering password number...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on submit button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on ok button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on close button...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[getting available account balance is Rs.4,99,658.77...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[taking screenshot...]]>
+    </line>
+    <line>
+      <![CDATA[Validate available funds passed...]]>
+    </line>
+    <line>
+      <![CDATA[TC showAvailableFunds is passed...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 2000ms...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[waiting for 1000ms...]]>
+    </line>
+    <line>
+      <![CDATA[clicking on logout button...]]>
+    </line>
+    <line>
+      <![CDATA[loging out from NeoStox...]]>
+    </line>
+    <line>
+      <![CDATA[closing browser...]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-23T16:04:23 IST" name="Suite" finished-at="2022-12-23T16:07:12 IST" duration-ms="169197">
+    <groups>
+    </groups>
+    <test started-at="2022-12-23T16:04:23 IST" name="Test" finished-at="2022-12-23T16:07:12 IST" duration-ms="169197">
+      <class name="neoStox_TestClass.ValidateNeoStoxUserName">
+        <test-method is-config="true" signature="neoStoxOpen()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@173ed316]" started-at="2022-12-23T16:05:17 IST" name="neoStoxOpen" finished-at="2022-12-23T16:05:26 IST" duration-ms="9369" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser successfully...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- neoStoxOpen -->
+        <test-method is-config="true" signature="neoStoxLogInDetails()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@173ed316]" started-at="2022-12-23T16:05:26 IST" name="neoStoxLogInDetails" finished-at="2022-12-23T16:06:01 IST" duration-ms="34390" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in...]]>
+            </line>
+            <line>
+              <![CDATA[reading mobNumber from property file]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile number...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in button...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[reading password from property file]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Entering password number...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit button...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on ok button...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on close button...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- neoStoxLogInDetails -->
+        <test-method signature="validateUserName()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@173ed316]" started-at="2022-12-23T16:06:01 IST" name="validateUserName" finished-at="2022-12-23T16:06:01 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[reading expUserName from property file]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot...]]>
+            </line>
+            <line>
+              <![CDATA[getting actual user name is Juber Khan...]]>
+            </line>
+            <line>
+              <![CDATA[Validate user name passed...]]>
+            </line>
+            <line>
+              <![CDATA[TC validateUserName is passed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@173ed316]" started-at="2022-12-23T16:06:01 IST" name="logOutFromNeoStox" finished-at="2022-12-23T16:06:01 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[loging out from NeoStox...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on logout button...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOutFromNeoStox -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@173ed316]" started-at="2022-12-23T16:06:01 IST" name="closeBrowser" finished-at="2022-12-23T16:06:02 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- neoStox_TestClass.ValidateNeoStoxUserName -->
+      <class name="neoStox_TestClass.ValidateNeoStoxCombo">
+        <test-method is-config="true" signature="neoStoxOpen()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxCombo@7d0b7e3c]" started-at="2022-12-23T16:04:23 IST" name="neoStoxOpen" finished-at="2022-12-23T16:04:39 IST" duration-ms="16864" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser successfully...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- neoStoxOpen -->
+        <test-method is-config="true" signature="neoStoxLogInDetails()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxCombo@7d0b7e3c]" started-at="2022-12-23T16:04:40 IST" name="neoStoxLogInDetails" finished-at="2022-12-23T16:05:01 IST" duration-ms="21668" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[reading mobNumber from property file]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile number...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in button...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[reading password from property file]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Entering password number...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit button...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on ok button...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on close button...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- neoStoxLogInDetails -->
+        <test-method signature="validateUserName()[pri:-1, instance:neoStox_TestClass.ValidateNeoStoxCombo@7d0b7e3c]" started-at="2022-12-23T16:05:01 IST" name="validateUserName" finished-at="2022-12-23T16:05:02 IST" duration-ms="1219" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot...]]>
+            </line>
+            <line>
+              <![CDATA[getting actual user name is Juber Khan...]]>
+            </line>
+            <line>
+              <![CDATA[reading expUserName from property file]]>
+            </line>
+            <line>
+              <![CDATA[Validate user name passed...]]>
+            </line>
+            <line>
+              <![CDATA[TC validateUserName is passed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxCombo@7d0b7e3c]" started-at="2022-12-23T16:05:02 IST" name="logOutFromNeoStox" finished-at="2022-12-23T16:05:06 IST" duration-ms="3648" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[loging out from NeoStox...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on logout button...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOutFromNeoStox -->
+        <test-method is-config="true" signature="neoStoxLogInDetails()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxCombo@7d0b7e3c]" started-at="2022-12-23T16:05:06 IST" name="neoStoxLogInDetails" finished-at="2022-12-23T16:05:14 IST" duration-ms="7593" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[reading mobNumber from property file]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile number...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in button...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[reading password from property file]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Entering password number...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit button...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Pop-Up not display so just wait for few ms...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- neoStoxLogInDetails -->
+        <test-method signature="showAvailableFunds()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxCombo@7d0b7e3c]" started-at="2022-12-23T16:05:14 IST" name="showAvailableFunds" finished-at="2022-12-23T16:05:14 IST" duration-ms="0" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.fail(Assert.java:115)
+at neoStox_TestClass.ValidateNeoStoxCombo.showAvailableFunds(ValidateNeoStoxCombo.java:64)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:324)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:74)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:123)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:456)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[TC showAvailableFunds is failed...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- showAvailableFunds -->
+        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxCombo@7d0b7e3c]" started-at="2022-12-23T16:05:14 IST" name="logOutFromNeoStox" finished-at="2022-12-23T16:05:17 IST" duration-ms="2764" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[loging out from NeoStox...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on logout button...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOutFromNeoStox -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxCombo@7d0b7e3c]" started-at="2022-12-23T16:05:17 IST" name="closeBrowser" finished-at="2022-12-23T16:05:17 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- neoStox_TestClass.ValidateNeoStoxCombo -->
+      <class name="neoStox_TestClass.ValidateNeoStoxAccBalance">
+        <test-method is-config="true" signature="neoStoxOpen()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxAccBalance@25ce9dc4]" started-at="2022-12-23T16:06:02 IST" name="neoStoxOpen" finished-at="2022-12-23T16:06:15 IST" duration-ms="12882" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[launching browser successfully...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- neoStoxOpen -->
+        <test-method is-config="true" signature="neoStoxLogInDetails()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxAccBalance@25ce9dc4]" started-at="2022-12-23T16:06:15 IST" name="neoStoxLogInDetails" finished-at="2022-12-23T16:07:11 IST" duration-ms="56246" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in...]]>
+            </line>
+            <line>
+              <![CDATA[reading mobNumber from property file]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Entering mobile number...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in button...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[reading password from property file]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Entering password number...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on submit button...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on ok button...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on close button...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- neoStoxLogInDetails -->
+        <test-method signature="showAvailableFunds()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxAccBalance@25ce9dc4]" started-at="2022-12-23T16:07:11 IST" name="showAvailableFunds" finished-at="2022-12-23T16:07:11 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[getting available account balance is Rs.4,99,658.77...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[taking screenshot...]]>
+            </line>
+            <line>
+              <![CDATA[Validate available funds passed...]]>
+            </line>
+            <line>
+              <![CDATA[TC showAvailableFunds is passed...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- showAvailableFunds -->
+        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxAccBalance@25ce9dc4]" started-at="2022-12-23T16:07:11 IST" name="logOutFromNeoStox" finished-at="2022-12-23T16:07:11 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[waiting for 2000ms...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[waiting for 1000ms...]]>
+            </line>
+            <line>
+              <![CDATA[clicking on logout button...]]>
+            </line>
+            <line>
+              <![CDATA[loging out from NeoStox...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOutFromNeoStox -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxAccBalance@25ce9dc4]" started-at="2022-12-23T16:07:11 IST" name="closeBrowser" finished-at="2022-12-23T16:07:12 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- neoStox_TestClass.ValidateNeoStoxAccBalance -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

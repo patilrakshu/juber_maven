@@ -89,19 +89,19 @@
       <![CDATA[closing browser...]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-12-07T13:42:25 IST" name="Default suite" finished-at="2022-12-07T13:43:12 IST" duration-ms="46742">
+  <suite started-at="2022-12-22T13:41:25 IST" name="Default suite" finished-at="2022-12-22T13:42:24 IST" duration-ms="59105">
     <groups>
     </groups>
-    <test started-at="2022-12-07T13:42:25 IST" name="Default test" finished-at="2022-12-07T13:43:12 IST" duration-ms="46742">
+    <test started-at="2022-12-22T13:41:25 IST" name="Default test" finished-at="2022-12-22T13:42:24 IST" duration-ms="59105">
       <class name="neoStox_TestClass.ValidateNeoStoxUserName">
-        <test-method is-config="true" signature="neoStoxOpen()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@437da279]" started-at="2022-12-07T13:42:25 IST" name="neoStoxOpen" finished-at="2022-12-07T13:42:41 IST" duration-ms="15933" status="PASS">
+        <test-method is-config="true" signature="neoStoxOpen()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@437da279]" started-at="2022-12-22T13:41:25 IST" name="neoStoxOpen" finished-at="2022-12-22T13:41:47 IST" duration-ms="22806" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[launching browser successfully...]]>
             </line>
           </reporter-output>
         </test-method> <!-- neoStoxOpen -->
-        <test-method is-config="true" signature="neoStoxLogInDetails()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@437da279]" started-at="2022-12-07T13:42:41 IST" name="neoStoxLogInDetails" finished-at="2022-12-07T13:43:09 IST" duration-ms="27584" status="PASS">
+        <test-method is-config="true" signature="neoStoxLogInDetails()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@437da279]" started-at="2022-12-22T13:41:48 IST" name="neoStoxLogInDetails" finished-at="2022-12-22T13:42:22 IST" duration-ms="34215" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[waiting for 1000ms...]]>
@@ -156,7 +156,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- neoStoxLogInDetails -->
-        <test-method signature="validateUserName()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@437da279]" started-at="2022-12-07T13:43:09 IST" name="validateUserName" finished-at="2022-12-07T13:43:10 IST" duration-ms="1194" status="PASS">
+        <test-method signature="validateUserName()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@437da279]" started-at="2022-12-22T13:42:22 IST" name="validateUserName" finished-at="2022-12-22T13:42:23 IST" duration-ms="922" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[reading expUserName from property file]]>
@@ -178,7 +178,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateUserName -->
-        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@437da279]" started-at="2022-12-07T13:43:10 IST" name="logOutFromNeoStox" finished-at="2022-12-07T13:43:11 IST" duration-ms="828" status="PASS">
+        <test-method is-config="true" signature="logOutFromNeoStox()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@437da279]" started-at="2022-12-22T13:42:23 IST" name="logOutFromNeoStox" finished-at="2022-12-22T13:42:23 IST" duration-ms="533" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[loging out from NeoStox...]]>
@@ -194,7 +194,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- logOutFromNeoStox -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@437da279]" started-at="2022-12-07T13:43:11 IST" name="closeBrowser" finished-at="2022-12-07T13:43:12 IST" duration-ms="974" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStox_TestClass.ValidateNeoStoxUserName@437da279]" started-at="2022-12-22T13:42:23 IST" name="closeBrowser" finished-at="2022-12-22T13:42:24 IST" duration-ms="504" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[closing browser...]]>
